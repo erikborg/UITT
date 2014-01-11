@@ -1,0 +1,12 @@
+
+Info
+5-1-2014 17:27:18 -- Sending message number: 1
+
+Info
+5-1-2014 17:27:18 -- Message content: command
+
+Info
+5-1-2014 17:27:19 -- Process Chrome started with MainWindowHandle 2098684
+
+Info
+5-1-2014 17:27:19 -- Window rectangle ==> Top: -8, Bottom: 1048, Left: -1928, Right: 8

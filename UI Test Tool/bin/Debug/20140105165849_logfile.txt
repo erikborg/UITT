@@ -1,0 +1,12 @@
+
+Info
+5-1-2014 16:58:50 -- Process Chrome started with MainWindowHandle 198224
+
+Info
+5-1-2014 16:58:50 -- Window rectangle ==> Top: -8, Bottom: 1048, Left: -1928, Right: 8
+
+Info
+5-1-2014 16:59:18 -- Window size ==> Height: 1056, Width: 1936
+
+Info
+5-1-2014 16:59:18 -- Mousecursor moved to x = -968, y = 528

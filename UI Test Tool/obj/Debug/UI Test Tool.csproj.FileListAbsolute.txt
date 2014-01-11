@@ -1,0 +1,9 @@
+c:\users\erik\documents\visual studio 2012\Projects\UI Test Tool\UI Test Tool\bin\Debug\UI Test Tool.exe.config
+c:\users\erik\documents\visual studio 2012\Projects\UI Test Tool\UI Test Tool\bin\Debug\UI Test Tool.exe
+c:\users\erik\documents\visual studio 2012\Projects\UI Test Tool\UI Test Tool\bin\Debug\UI Test Tool.pdb
+c:\users\erik\documents\visual studio 2012\Projects\UI Test Tool\UI Test Tool\obj\Debug\UI Test Tool.csprojResolveAssemblyReference.cache
+c:\users\erik\documents\visual studio 2012\Projects\UI Test Tool\UI Test Tool\obj\Debug\UI Test Tool.exe
+c:\users\erik\documents\visual studio 2012\Projects\UI Test Tool\UI Test Tool\obj\Debug\UI Test Tool.pdb
+C:\Users\Erik\documents\visual studio 2012\Projects\UI Test Tool\UI Test Tool\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Erik\documents\visual studio 2012\Projects\UI Test Tool\UI Test Tool\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Erik\documents\visual studio 2012\Projects\UI Test Tool\UI Test Tool\bin\Debug\HtmlAgilityPack.xml

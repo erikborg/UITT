@@ -1,0 +1,6 @@
+
+Info
+5-1-2014 16:55:20 -- Process Chrome started with MainWindowHandle 525810
+
+Info
+5-1-2014 16:55:20 -- Window rectangle ==> Top: -8, Bottom: 1048, Left: -1928, Right: 8

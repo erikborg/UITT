@@ -38,7 +38,7 @@ namespace UI_Test_Tool
             //http://stackoverflow.com/questions/18447621/how-to-get-window-handle-int-from-chrome-extension
 
             log = new Log.Log();
-            StartServer();
+            //StartServer();
 
             //Read the contents of the specified XML file to our dictionary
             Utility.AutomationUtility.ReadFromXml(path);
@@ -60,6 +60,11 @@ namespace UI_Test_Tool
 
             Models.Element element = new Models.Element(baseRectangle, testRect);
             element.MouseClick(Enums.MouseClickType.LeftClick, Models.OffsetReference.AbsoluteCenter);
+
+            System.Threading.Thread.Sleep(5000);
+
+            SendKeys.SendWait("Test");
+            SendKeys.SendWait("{ENTER}");
 
             Console.ReadLine();
 
@@ -151,10 +156,7 @@ namespace UI_Test_Tool
         public static void StartServer()
         {
             server = new Server();
-            ip = server.getIP();
-            automation = new Automation(server, log);
-            automationThread = new Thread(new ThreadStart(automation.Run));
-            automationThread.Start();
+            server.StartServer();
         }
     }
 }

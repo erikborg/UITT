@@ -7,3 +7,14 @@ c:\users\erik\documents\visual studio 2012\Projects\UI Test Tool\UI Test Tool\ob
 C:\Users\Erik\documents\visual studio 2012\Projects\UI Test Tool\UI Test Tool\bin\Debug\HtmlAgilityPack.dll
 C:\Users\Erik\documents\visual studio 2012\Projects\UI Test Tool\UI Test Tool\bin\Debug\HtmlAgilityPack.pdb
 C:\Users\Erik\documents\visual studio 2012\Projects\UI Test Tool\UI Test Tool\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Erik\Documents\GitHub\UITT\UI Test Tool\bin\Debug\UI Test Tool.exe.config
+C:\Users\Erik\Documents\GitHub\UITT\UI Test Tool\obj\Debug\UI Test Tool.exe
+C:\Users\Erik\Documents\GitHub\UITT\UI Test Tool\obj\Debug\UI Test Tool.pdb
+C:\Users\Erik\Documents\GitHub\UITT\UI Test Tool\bin\Debug\UI Test Tool.exe
+C:\Users\Erik\Documents\GitHub\UITT\UI Test Tool\bin\Debug\UI Test Tool.pdb
+C:\Users\Erik\Documents\GitHub\UITT\UI Test Tool\bin\Debug\Alchemy.dll
+C:\Users\Erik\Documents\GitHub\UITT\UI Test Tool\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Erik\Documents\GitHub\UITT\UI Test Tool\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Erik\Documents\GitHub\UITT\UI Test Tool\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Erik\Documents\GitHub\UITT\UI Test Tool\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Erik\Documents\GitHub\UITT\UI Test Tool\obj\Debug\UI Test Tool.csprojResolveAssemblyReference.cache

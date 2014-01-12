@@ -32,8 +32,14 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="Alchemy">
+      <HintPath>..\packages\Alchemy.2.2.1\lib\net40\Alchemy.dll</HintPath>
+    </Reference>
     <Reference Include="HtmlAgilityPack">
       <HintPath>E:\Net45\HtmlAgilityPack.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json">
+      <HintPath>..\packages\Newtonsoft.Json.5.0.8\lib\net45\Newtonsoft.Json.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
@@ -53,6 +59,7 @@
     <Compile Include="Log\LogLevel.cs" />
     <Compile Include="Models\Element.cs" />
     <Compile Include="Server.cs" />
+    <Compile Include="UI Operations\KeyboardOperations.cs" />
     <Compile Include="UI Operations\LayoutOperations.cs" />
     <Compile Include="Enums\MouseClickType.cs" />
     <Compile Include="UI Operations\MouseOperations.cs" />
@@ -62,6 +69,7 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+    <None Include="packages.config" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

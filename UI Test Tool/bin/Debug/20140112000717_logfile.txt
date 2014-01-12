@@ -1,0 +1,16 @@
+
+Error
+12-1-2014 0:07:18 -- The file(s) could not be read:
+
+Error
+12-1-2014 0:07:18 -- Kan het netwerkpad niet vinden.
+
+
+Info
+12-1-2014 0:07:19 -- Process Chrome started with MainWindowHandle 1054066
+
+Info
+12-1-2014 0:07:19 -- Window rectangle ==> Top: -8, Bottom: 1048, Left: -8, Right: 1928
+
+Info
+12-1-2014 0:07:19 -- Window size ==> Height: 1056, Width: 1936
